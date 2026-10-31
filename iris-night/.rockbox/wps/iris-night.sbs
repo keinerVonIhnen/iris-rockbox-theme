@@ -48,13 +48,13 @@
 %dr(1,1,4,4,282430)
 #
 # volume bar
-%V(11,110,6,56,-)
+%V(11,105,6,56,-)
 %Vf(b8acc8)
 %Vb(404048)
 %pv(0,0,6,56,vertical,noborder)
 #
 # clock HH:MM, rotated 90 deg CCW
-%V(0,177,28,27,-)
+%V(0,172,28,27,-)
 %Vb(282430)
 %xd(cm,%cM,1)
 %?cf<%xd(ch,%cH,1)|%xd(cj,%cl)>
